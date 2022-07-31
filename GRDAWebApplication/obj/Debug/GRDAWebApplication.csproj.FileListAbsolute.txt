@@ -1,0 +1,6 @@
+C:\GRDAWebApplication\GRDAWebApplication\bin\GRDAWebApplication.dll.config
+C:\GRDAWebApplication\GRDAWebApplication\bin\GRDAWebApplication.dll
+C:\GRDAWebApplication\GRDAWebApplication\bin\GRDAWebApplication.pdb
+C:\GRDAWebApplication\GRDAWebApplication\obj\Debug\GRDAWebApplication.csprojResolveAssemblyReference.cache
+C:\GRDAWebApplication\GRDAWebApplication\obj\Debug\GRDAWebApplication.dll
+C:\GRDAWebApplication\GRDAWebApplication\obj\Debug\GRDAWebApplication.pdb
